@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST=School sad BEST=School
+echo $((2 + 2)) BEST=School
